@@ -63,7 +63,7 @@ namespace Week5Day4
 
             do
             {
-                Console.WriteLine("Che veicolo vuoi inserire?");
+                Console.WriteLine("Che prodotto vuoi inserire?");
                 Console.WriteLine("Premi 1 per inserire un cellulare ");
                 Console.WriteLine("Premi 2 per inserire un pc");
                 Console.WriteLine("Premi 3 per inserire una tv ");
